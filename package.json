@@ -1,0 +1,17 @@
+{
+  "name": "happy-dom-form-prevent-default-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LukasBombach/happy-dom-form-prevent-default-bug",
+  "author": "Lukas Bombach <lukas.bombach@googlemail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@testing-library/dom": "10.1.0",
+    "@testing-library/user-event": "14.5.2",
+    "happy-dom": "14.12.0",
+    "vitest": "1.6.0"
+  }
+}
